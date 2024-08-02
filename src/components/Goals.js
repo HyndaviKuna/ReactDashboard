@@ -1,6 +1,6 @@
 import React from 'react';
 import './Goals.css';
-import { FaBullseye, FaHamburger, FaUtensils } from 'react-icons/fa';
+
 import { BiDish } from "react-icons/bi";
 import { GiHamburger } from "react-icons/gi";
 import { GoGoal } from "react-icons/go";
