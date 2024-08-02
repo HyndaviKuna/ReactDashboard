@@ -6,7 +6,7 @@ import BarChartIcon from '@mui/icons-material/BarChart';
 import ListAltIcon from '@mui/icons-material/ListAlt';
 import EventNoteIcon from '@mui/icons-material/EventNote';
 import PaymentIcon from '@mui/icons-material/Payment';
-import SettingsIcon from '@mui/icons-material/Settings';
+
 import LogoutIcon from '@mui/icons-material/Logout';
 
 const Sidebar = () => {
